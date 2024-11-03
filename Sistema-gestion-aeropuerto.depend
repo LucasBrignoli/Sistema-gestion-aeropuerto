@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1730645804 source:c:\users\lucas\desktop\subir a git\sistema-gestion-aeropuerto\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+	"nodo.h"
+
+1730578381 c:\users\lucas\desktop\subir a git\sistema-gestion-aeropuerto\cola.h
+	"nodo.h"
+
+1730578395 c:\users\lucas\desktop\subir a git\sistema-gestion-aeropuerto\nodo.h
+
+1730578356 source:c:\users\lucas\desktop\subir a git\sistema-gestion-aeropuerto\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1730578388 c:\users\lucas\desktop\subir a git\sistema-gestion-aeropuerto\lista.h
+	"nodo.h"
+
+1730645915 source:c:\users\lucas\desktop\subir a git\sistema-gestion-aeropuerto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"cola.h"
+	"equipaje.h"
+	"pasajero.h"
+	"vuelo.h"
+
+1730578364 source:c:\users\lucas\desktop\subir a git\sistema-gestion-aeropuerto\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1730606367 source:c:\users\lucas\desktop\subir a git\sistema-gestion-aeropuerto\pasajero.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pasajero.h"
+
+1730644042 c:\users\lucas\desktop\subir a git\sistema-gestion-aeropuerto\pasajero.h
+
+1730578370 source:c:\users\lucas\desktop\subir a git\sistema-gestion-aeropuerto\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"nodo.h"
+
+1730578403 c:\users\lucas\desktop\subir a git\sistema-gestion-aeropuerto\pila.h
+	"nodo.h"
+
+1730645006 source:c:\users\lucas\desktop\subir a git\sistema-gestion-aeropuerto\vuelo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"equipaje.h"
+	"pasajero.h"
+	"vuelo.h"
+	"cola.h"
+	"pila.h"
+
+1730644711 c:\users\lucas\desktop\subir a git\sistema-gestion-aeropuerto\vuelo.h
+	"cola.h"
+	"pila.h"
+
+1730604182 source:c:\users\lucas\desktop\subir a git\sistema-gestion-aeropuerto\equipaje.c
+	<stdio.h>
+	<stdlib.h>
+	"equipaje.h"
+
+1730644042 c:\users\lucas\desktop\subir a git\sistema-gestion-aeropuerto\equipaje.h
+
